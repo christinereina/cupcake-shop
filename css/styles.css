@@ -1,0 +1,42 @@
+h1.intro {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(208, 151, 208);
+  background-image: url(https://media0.giphy.com/media/OqprHEhrBpmdq/giphy.gif);
+
+}
+
+h2.intro {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(208, 151, 208);
+  background-image: url(https://media0.giphy.com/media/OqprHEhrBpmdq/giphy.gif);
+
+}
+
+img.resize {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+
+}
+
+p.important {
+  font-family: cursive;
+  color: orange;
+}
+
+.color {
+  text-shadow: black;
+}
+
+.important {
+  color: orange;
+}
+
+
+body.color {
+  background-color:rgb(189, 255, 237);
+  font-weight: bolder;
+}
