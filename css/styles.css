@@ -22,6 +22,7 @@ img.resize {
 
 }
 
+
 p.important {
   font-family: cursive;
   color: orange;
@@ -39,4 +40,9 @@ p.important {
 body.color {
   background-color:rgb(189, 255, 237);
   font-weight: bolder;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
